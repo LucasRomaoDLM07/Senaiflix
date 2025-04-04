@@ -85,4 +85,10 @@ main{
         border-radius: 7px;
 
     }
+
+    .av {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+    }
  
